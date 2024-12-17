@@ -6,6 +6,7 @@
         <Description xml:space="preserve">Run premake from Visual Studio</Description>
         <MoreInfo>https://github.com/CatalystDigitalStudio/VSPremake</MoreInfo>
         <License>LICENSE.txt</License>
+        <GettingStartedGuide>https://github.com/CatalystDigitalStudio/VSPremake/wiki/Getting-Started</GettingStartedGuide>
         <Icon>Resources\favicon.ico</Icon>
         <PreviewImage>Resources\premake-logo.png</PreviewImage>
         <Tags>Premake5</Tags>
