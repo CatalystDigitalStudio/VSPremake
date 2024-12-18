@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VSPremake.6ff4b11d-9869-41c9-8267-ece5588ae874" Version="1.0" Language="en-US" Publisher="Catalyst Digital Studio" />
+        <Identity Id="VSPremake.6ff4b11d-9869-41c9-8267-ece5588ae874" Version="1.0" Language="en-US" Publisher="Colton McGraw" />
         <DisplayName>VSPremake</DisplayName>
-        <Description xml:space="preserve">Run premake from Visual Studio</Description>
-        <MoreInfo>https://github.com/CatalystDigitalStudio/VSPremake</MoreInfo>
+        <Description xml:space="preserve">Run Premake5 inside Visual Studio</Description>
+        <MoreInfo>https://github.com/ColtMcG1/VSPremake</MoreInfo>
         <License>LICENSE.txt</License>
-        <GettingStartedGuide>https://github.com/CatalystDigitalStudio/VSPremake/wiki/Getting-Started</GettingStartedGuide>
+        <GettingStartedGuide>https://github.com/ColtMcG1/VSPremake/wiki/Getting-Started</GettingStartedGuide>
         <Icon>Resources\favicon.ico</Icon>
         <PreviewImage>Resources\favicon.ico</PreviewImage>
         <Tags>Premake5</Tags>
