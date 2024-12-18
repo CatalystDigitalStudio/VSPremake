@@ -1,5 +1,3 @@
-# VSPremake
-
 <h1 style="text-align: center;">VSPremake</h1>
 <h2>Getting Started</h2>
 <ul>
