@@ -1,16 +1,15 @@
-<h1 style="text-align: center;">VSPremake</h1>
-<h2>Getting Started</h2>
-<ul>
-    <li>Run the .VSIX installer</li>
-    <li>Thats it!</li>
-</ul>
-<p></p>
-<h2>How To Use It</h2>
-<ul>
-    <li>One in a solution, you can find the command in the solution menu.</li>
-    <li>You can also add the icon to your toolbar.&nbsp;<strong>Tools &gt; Customize &gt; Toolbars &gt; VSPremake</strong></li>
-</ul>
-<table style="margin-left: auto; margin-right: auto;">
+# [VSPremake](https://github.com/ColtMcG1/VSPremake)
+[![CodeQL](https://github.com/ColtMcG1/VSPremake/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/ColtMcG1/VSPremake/actions/workflows/github-code-scanning/codeql)
+
+## Getting Started
+- Click install
+- Thats it!
+
+## How To Use It
+- One in a solution, you can find the command in the solution menu.
+- You can also add the icon to your toolbar. **Tools > Customize > Toolbars > VSPremake**
+
+<table>
     <tbody>
         <tr>
             <td><img width="260" alt="img1" src="https://github.com/user-attachments/assets/644d46e3-6e4a-414c-aaa0-0fcb9e789e46" /></td>
@@ -18,8 +17,8 @@
         </tr>
     </tbody>
 </table>
-<hr />
-<h2>Settings</h2>
-<ul>
-    <li>You can provide arguments to Premake5 though the extensions settings. <strong>Tools &gt; Options &gt; VSPremake</strong></li>
-</ul>
+
+## Settings
+- You can provide arguments to Premake though the extensions settings. **Tools > Options > VSPremake**
+
+[Find it on the Microsoft Marketplace here](https://marketplace.visualstudio.com/items?itemName=ColtonMcGraw.VSPremake)
